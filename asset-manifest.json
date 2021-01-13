@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/phoenix_virtual_shop/static/css/main.d6ef7924.chunk.css",
+    "main.js": "/phoenix_virtual_shop/static/js/main.6f2417bd.chunk.js",
+    "main.js.map": "/phoenix_virtual_shop/static/js/main.6f2417bd.chunk.js.map",
+    "runtime-main.js": "/phoenix_virtual_shop/static/js/runtime-main.72fea8cd.js",
+    "runtime-main.js.map": "/phoenix_virtual_shop/static/js/runtime-main.72fea8cd.js.map",
+    "static/css/2.0075552d.chunk.css": "/phoenix_virtual_shop/static/css/2.0075552d.chunk.css",
+    "static/js/2.2bc59054.chunk.js": "/phoenix_virtual_shop/static/js/2.2bc59054.chunk.js",
+    "static/js/2.2bc59054.chunk.js.map": "/phoenix_virtual_shop/static/js/2.2bc59054.chunk.js.map",
+    "static/js/3.b0ba9f95.chunk.js": "/phoenix_virtual_shop/static/js/3.b0ba9f95.chunk.js",
+    "static/js/3.b0ba9f95.chunk.js.map": "/phoenix_virtual_shop/static/js/3.b0ba9f95.chunk.js.map",
+    "index.html": "/phoenix_virtual_shop/index.html",
+    "static/css/2.0075552d.chunk.css.map": "/phoenix_virtual_shop/static/css/2.0075552d.chunk.css.map",
+    "static/css/main.d6ef7924.chunk.css.map": "/phoenix_virtual_shop/static/css/main.d6ef7924.chunk.css.map",
+    "static/js/2.2bc59054.chunk.js.LICENSE.txt": "/phoenix_virtual_shop/static/js/2.2bc59054.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/phoenix_virtual_shop/static/media/cover2.c1c0b7b6.webp",
+    "static/media/pic1.efa43549.JPG": "/phoenix_virtual_shop/static/media/pic1.efa43549.JPG",
+    "static/media/pic2.a27be43b.JPG": "/phoenix_virtual_shop/static/media/pic2.a27be43b.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72fea8cd.js",
+    "static/css/2.0075552d.chunk.css",
+    "static/js/2.2bc59054.chunk.js",
+    "static/css/main.d6ef7924.chunk.css",
+    "static/js/main.6f2417bd.chunk.js"
+  ]
+}
