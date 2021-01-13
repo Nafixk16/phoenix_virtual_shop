@@ -1,0 +1,27 @@
+@media only screen and (max-width: 600px) {
+  .product12.product article .thumb img {
+    transform: scale(0.8);
+  }
+  .product12.product article .content .btn-secondary {
+    font-size: 10px;
+  }
+  .product article .content .price {
+    font-size: 10px;
+  }
+  .product article .content .title a {
+    text-align: left;
+  }
+  .product12.product article .thumb .badges .badge {
+    display: inline;
+  }
+  fieldset {
+    font-size: 12px;
+    margin-left: -10px;
+  }
+  .product article .content .price {
+    font-size: 1.1rem;
+  }
+  .product article .content .tag {
+    display: none;
+  }
+}

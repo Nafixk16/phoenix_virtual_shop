@@ -1,0 +1,97 @@
+.navbar-nav .nav-item {
+  background: none;
+  border: none;
+  outline: none;
+  margin-right: 20px;
+}
+.navbar {
+  background-color: rgb(197, 3, 3);
+}
+/* ***************     header jsx      ************* */
+.header-wrapper {
+  width: 100%;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.header-wrapper .column {
+  width: 66vh;
+  /* border: 1px solid red; */
+}
+.header-wrapper .col-first {
+  display: flex;
+  flex-direction: row;
+}
+.header-wrapper .col-first {
+  padding: 7px;
+}
+.header-wrapper .col-first .buttons-wrap button {
+  margin-top: 5px;
+  width: 100px;
+  background-color: rgb(197, 3, 3);
+}
+.header-wrapper .col-first .buttons-wrap button:hover {
+  background-color: red;
+}
+.header-wrapper .col-first .content-wrap {
+  padding-left: 10px;
+  padding-top: 5px;
+  color: rgb(197, 3, 3);
+}
+.header-wrapper .col-second h1 {
+  text-align: center;
+  margin-top: 4%;
+  font-family: cursive;
+  font-weight: bold;
+  color: rgb(197, 3, 3);
+}
+.header-wrapper .col-third {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.col-third .social-icons-wrap {
+  margin-right: auto;
+  padding-top: 15px;
+  padding-right: 30px;
+}
+.col-third .social-icons-wrap .icon-btn {
+  border: none;
+  outline: none;
+  background-color: rgb(197, 3, 3);
+  color: white;
+  font-size: 25px;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+  margin-top: 3px;
+}
+.col-third .social-icons-wrap .icon-btn:hover {
+  background-color: red;
+}
+
+.header-wrapper .col-third .visitors-info {
+  border-left: 1px solid red;
+  display: flex;
+  flex-direction: row;
+}
+
+.header-wrapper .col-third .visitors-info .icon-btn {
+  border: none;
+  background: none;
+  font-size: 35px;
+  color: rgb(197, 3, 3);
+}
+
+.header-wrapper .col-third .visitors-info .total-visitors {
+  padding-top: 15px;
+  text-align: center;
+  align-items: center;
+}
+.header-wrapper .col-third .visitors-info .total-visitors i {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+}
